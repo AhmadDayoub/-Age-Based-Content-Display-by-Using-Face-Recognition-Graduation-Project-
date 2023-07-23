@@ -1,5 +1,4 @@
 # Gender-Recognition-and-Age-Estimator
-<!-- Gallery of screenshots -->
 <p align="center">
   <img src="https://github.com/AhmadDayoub/-Age-Based-Content-Display-by-Using-Face-Recognition-Graduation-Project-/assets/114308315/82395c06-b8cd-4cb6-bfa5-a4354752510f" alt="Screenshot 1">
   <img src="https://github.com/AhmadDayoub/-Age-Based-Content-Display-by-Using-Face-Recognition-Graduation-Project-/assets/114308315/bd9bde78-b36e-4ae9-abad-ff93910a0e14" alt="Screenshot 2">
