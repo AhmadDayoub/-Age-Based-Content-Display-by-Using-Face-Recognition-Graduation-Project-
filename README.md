@@ -12,7 +12,7 @@
 Thank you for your interest in our Graduation Project! This guide will walk you through the steps to set up and use the project effectively. Before you begin, please ensure that you have the following prerequisites:
 
 - Python IDE (Integrated Development Environment) version 3.11.0 or higher installed on your system.
-- The project's zip file, which you can download from [Link].
+- The project's zip file, which you can download.
 - The pretrained model, which you can download from [[Pretrained Model](https://drive.google.com/drive/folders/1DlkuoGpy219ej-1JyWvY0k-mqc80-Txc?usp=sharing)].
 
 ## Step 1: Install Python IDE
